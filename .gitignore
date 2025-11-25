@@ -5,11 +5,13 @@ venv/
 .vscode/
 /data/
 !/data/.gitkeep
-/models/
+/models/*
+!/models/sentiment_model.joblib
 !/models/.gitkeep
 /logs/
 !/logs/.gitkeep
 *.joblib
+!models/sentiment_model.joblib
 *.pdf
 *.zip
 *.mkv
