@@ -133,11 +133,6 @@ print(response.json())
 - `POST /predict` : Prédiction pour un seul texte
 - `POST /predict_batch` : Prédiction pour plusieurs commentaires
 
-## 🔗 Liens
-
-- **GitHub** : [khaoulaRafik/YouTube-Sentiment-Analysis](https://github.com/khaoulaRafik/YouTube-Sentiment-Analysis)
-- **API Live** : [Hugging Face Space](https://khaoula2026r-khaoula-youtube-sentiment-api.hf.space)
-- **Documentation API** : [Swagger UI](https://khaoula2026r-khaoula-youtube-sentiment-api.hf.space/docs)
 
 ## 📁 Structure du Projet
 
